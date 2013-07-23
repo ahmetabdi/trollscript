@@ -26,7 +26,8 @@ It's so simple even a troll could do it: `trollscript path/to/script.troll`
 
 As it's based on Brainfuck, it's fairly simple (lol?) to understand and use.
 The eight operators from Brainfuck are simply replaced with TrollScript
-trigraphs. Also TrollScript scripts begin with `tro` and end with `ll.`.
+trigraphs. Also TrollScript scripts can optionally begin with `tro` and end
+with `ll.`.
 
 * `>` is `ooo` - increment the data pointer (to point to the next cell to the right)
 * `<` is `ool` - decrement the data pointer (to point to the next cell to the left)

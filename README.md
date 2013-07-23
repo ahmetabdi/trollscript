@@ -57,4 +57,4 @@ Just send any pull requests willy-nilly!
 
 ## LICENSE
 
-Do What The Fuck You Want To Public License
+Copyright 2013 Tom Bell see `LICENSE.md`
